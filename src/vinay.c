@@ -1,5 +1,5 @@
 #include<vinay.h>
-int main()
+int vinay()
 {
     printf("vinay");
     return 0;

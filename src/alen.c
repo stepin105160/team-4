@@ -1,5 +1,5 @@
 #include<alen.h>
-int main()
+int alen()
 {
     printf("This is Alen Reji Kokkad");
     return 0;

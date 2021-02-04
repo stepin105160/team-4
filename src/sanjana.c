@@ -1,5 +1,5 @@
-include<sanjana.h>
+#include<sanjana.h>
 
-int main(){
+int sanjana(){
     printf("sanjana");
 }

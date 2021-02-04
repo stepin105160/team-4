@@ -1,5 +1,5 @@
 #include<anurag.h>
-int main()
+int anurag()
 {
     printf("this is anurag");
     return 0;

@@ -1,6 +1,6 @@
-#ifndef _REHANA_H_
-#define _REHANA_H_
+#ifndef __REHANA_H__
+#define __REHANA_H__
 
 #include<stdio.h>
-
+int rehana();
 #endif

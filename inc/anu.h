@@ -1,5 +1,5 @@
-#ifndef _ANU_H_
-#define _ANU_H_
+#ifndef __ANU_H__
+#define __ANU_H__
 
 #include<stdio.h>
 int anu();

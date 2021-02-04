@@ -1,6 +1,6 @@
-includ<rehana.h>
+#include<rehana.h>
 
-int main(){
+int rehana(){
     printf("rehana");
     
 }

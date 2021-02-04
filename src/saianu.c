@@ -1,5 +1,5 @@
-include<saianu.h>
+#include<saianu.h>
 
-int main(){
+int saianu(){
     printf("saianu");
 }

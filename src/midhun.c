@@ -1,6 +1,7 @@
-includ<midhun.h>
+#include<midhun.h>
 
-int main(){
+int midhun()
+{
     printf("midhun");
     
 }

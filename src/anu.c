@@ -1,5 +1,5 @@
 #include<anu.h>
-int main()
+int anu()
 {
     printf("this is anu");
     return 0;

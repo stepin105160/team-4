@@ -2,5 +2,5 @@
 #define __VINAY_H__
 
 #include<stdio.h>
-
+int vinay();
 #endif

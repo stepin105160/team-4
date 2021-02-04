@@ -1,6 +1,6 @@
-#ifndef _SAIANU_H_
-#define _SAIANU_H_
+#ifndef __SAIANU_H__
+#define __SAIANU_H__
 
 #include<stdio.h>
-
+int saianu();
 #endif
