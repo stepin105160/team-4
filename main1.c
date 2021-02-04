@@ -1,0 +1,24 @@
+#include<Aiswariya.h>
+#include<alen.h>
+#include<anu.h>
+#include<anurag.h>
+#include<keerthi.h>
+#include<midhun.h>
+#include<rehana.h>
+#include<saianu.h>
+#include<sanjana.h>
+#include<vinay.h>
+#include<stdio.h>
+int main()
+{
+    Aiswariya();
+    alen();
+    anu();
+    anurag();
+    keerthi();
+    midhun();
+    rehana();
+    saianu();
+    sanjana();
+    vinay();
+}
