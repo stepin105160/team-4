@@ -1,4 +1,4 @@
-includ<midhun.h>
+include<midhun.h>
 
 int main(){
     printf("midhun");
