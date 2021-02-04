@@ -2,5 +2,5 @@
 #define __AISWARIYA_H__
 
 #include<stdio.h>
-int aiswariya();
+int Aiswariya();
 #endif

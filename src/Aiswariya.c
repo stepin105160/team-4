@@ -1,5 +1,5 @@
-includ<aish.h>
+#include<Aiswariya.h>
 
-int aiswariya(){
+int Aiswariya(){
     printf("Aiswariya");
 }
