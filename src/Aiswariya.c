@@ -1,5 +1,5 @@
 includ<aish.h>
 
-int main(){
+int aiswariya(){
     printf("Aiswariya");
 }

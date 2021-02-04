@@ -2,5 +2,5 @@
 #define _ALEN_H_
 
 #include<stdio.h>
-
+int alen();
 #endif

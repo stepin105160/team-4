@@ -2,5 +2,5 @@
 #define __SANJANA_H__
 
 #include<stdio.h>
-
+int sanjana();
 #endif

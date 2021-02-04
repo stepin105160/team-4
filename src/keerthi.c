@@ -1,5 +1,5 @@
 include<keerthi.h>
 
-int main(){
+int keerthi(){
     printf("keerthi");
 }
