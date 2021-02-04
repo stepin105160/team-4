@@ -1,5 +1,4 @@
-includ<saianusha.h>
-
+#include<saianusha.h>
 int main(){
     printf("saianusha");
 }
